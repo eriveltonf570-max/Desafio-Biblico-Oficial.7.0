@@ -1,0 +1,16 @@
+function updateStats(){
+document.getElementById("record").textContent=localStorage.getItem("dbRecord")||0;
+document.getElementById("last").textContent=localStorage.getItem("dbLast")||0;
+}
+
+function home(){
+document.getElementById("game").hidden=true;
+document.getElementById("result").hidden=true;
+document.getElementById("home").hidden=false;
+updateStats();
+}
+
+updateStats();
+</script>
+</body>
+</html>
