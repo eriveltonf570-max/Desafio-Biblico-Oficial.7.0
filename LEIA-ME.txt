@@ -1,0 +1,28 @@
+DESAFIO BÍBLICO OFICIAL 7.0 — VERSÃO WEB/PWA PARA ANDROID
+
+ARQUIVOS: index.html, manifest.webmanifest e sw.js.
+
+PUBLICAR UM LINK GRATUITO PELO CELULAR (GITHUB PAGES):
+1. Entre em https://github.com e abra sua conta.
+2. Toque no + e escolha New repository.
+3. Nome sugerido: desafio-biblico-oficial. Marque Public.
+4. Crie o repositório e escolha Add file > Upload files.
+5. Extraia o ZIP no celular e envie os TRÊS arquivos da pasta (index.html, manifest.webmanifest e sw.js), não o ZIP fechado.
+6. Confirme em Commit changes.
+7. Abra Settings > Pages.
+8. Em Build and deployment, escolha Deploy from a branch; branch main e pasta /(root); salve.
+9. Aguarde a publicação. O endereço será https://SEU-USUARIO.github.io/desafio-biblico-oficial/
+
+USAR NO ANDROID:
+Abra o endereço publicado no Chrome. No menu ⋮, escolha “Adicionar à tela inicial” ou “Instalar app”, se aparecer. Depois da primeira abertura com internet, os arquivos principais ficam em cache para abrir novamente offline.
+
+RECURSOS DESTA VERSÃO:
+- Interface responsiva para celular, em azul-marinho, dourado e branco.
+- Perguntas bíblicas por categoria, desafio rápido e explicação com referência.
+- Perfil, pontos, recorde e conquistas salvos no aparelho.
+- Preparação PWA para adicionar à tela inicial e cache offline.
+
+LIMITAÇÕES:
+- Esta é uma versão web/PWA, não um APK Android.
+- O ranking desta versão é local, não compartilhado entre jogadores. Batalhas e ranking online exigem backend/banco de dados e não estão ativos.
+- O link público só é criado depois de publicar no GitHub Pages; este pacote ainda não está hospedado.
